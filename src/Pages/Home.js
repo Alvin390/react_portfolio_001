@@ -14,6 +14,7 @@ function Home() {
                 I’m a Senior Software Engineer with 7+ years of experience building scalable web apps and APIs.
                 I lead software teams, mentor devs, and craft enterprise-grade solutions.
             </p>
+            <a href="/RESUME.pdf" download className="resume-download-btn">Download Resume</a>
             <div style={{ fontSize: "1.5rem" }}>
                 <a href="https://linkedin.com/in/alvinkariuki254" target="_blank" rel="noreferrer">
                     <FaLinkedin />
