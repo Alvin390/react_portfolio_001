@@ -6,7 +6,7 @@ function Home() {
             <div className="main-photo">
                 <img src="/alvin.jpg" alt="Alvin Kariuki" className="main-photo-img" />
             </div>
-            <h1>Erick Wetiba Were</h1>
+            <h1>Alvin Kariuki</h1>
             <p>
                 <FaReact color="#61DBFB" /> ReactJS | <FaPython color="#306998" /> Django | Full-Stack Dev
             </p>
