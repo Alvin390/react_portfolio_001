@@ -11,8 +11,13 @@ function Home() {
                 <FaReact color="#61DBFB" /> ReactJS | <FaPython color="#306998" /> Django | Full-Stack Dev
             </p>
             <p>
-                I’m a Senior Software Engineer with 7+ years of experience building scalable web apps and APIs.
-                I lead software teams, mentor devs, and craft enterprise-grade solutions.
+                I’m Alvin Muturi Kariuki — a developer, communicator, and builder from Kenya.
+
+                I craft full-stack solutions that make a difference, whether it's streamlining local trade, boosting employee well-being with AI, or helping communities manage resources better.
+
+                My journey began behind church projectors. Today, I’m a hackathon winner, a presenter to corporate leaders, and a passionate problem solver who thrives in fast-paced, mission-driven environments.
+
+                If it’s meaningful, I’ll build it. If it challenges me, I’ll grow through it. If it helps others, I’m all in.
             </p>
             <a href="/RESUME.pdf" download className="resume-download-btn">Download Resume</a>
             <div style={{ fontSize: "1.5rem" }}>
