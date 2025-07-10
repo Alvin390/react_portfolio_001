@@ -20,6 +20,8 @@ function Home() {
                 If it’s meaningful, I’ll build it. If it challenges me, I’ll grow through it. If it helps others, I’m all in.
             </p>
             <a href="/RESUME.pdf" download className="resume-download-btn">Download Resume</a>
+            <br/>
+            <br/>
             <div style={{ fontSize: "1.5rem" }}>
                 <a href="https://linkedin.com/in/alvinkariuki254" target="_blank" rel="noreferrer">
                     <FaLinkedin />
